@@ -20,7 +20,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: pooja.s
 RegisterNumber:  212223040146
 */
-```
 import pandas as pd
 data=pd.read_csv("/content/Employee_EX6.csv")
 data.head()
