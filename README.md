@@ -43,6 +43,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+```
 
 ## Output:
 ![Screenshot 2024-04-02 155112](https://github.com/poojasen05/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150784373/882d3d2e-d594-4aad-84f8-6cd8e90d3430)
